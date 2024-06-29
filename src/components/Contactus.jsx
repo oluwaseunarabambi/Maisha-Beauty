@@ -25,6 +25,11 @@ const ContactUs = () => {
     return (
         <div className="contact-container">
             <h2>Contact Us</h2>
+            <div className="contact-details">
+                <p>Name: Ayishat Temitope Sulaimon</p>
+                <p>Email: Miamibolakale@gmail.com</p>
+                <p>WhatsApp: 09053267546</p>
+            </div>
             <form onSubmit={handleSubmit} className="contact-form">
                 <div className="form-group">
                     <label htmlFor="name">Name</label>

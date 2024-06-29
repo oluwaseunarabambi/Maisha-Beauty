@@ -15,6 +15,17 @@
     color: #333;
 }
 
+.contact-details {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: left;
+}
+
+.contact-details p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
 .contact-form {
     display: flex;
     flex-direction: column;
@@ -22,6 +33,7 @@
 
 .form-group {
     margin-bottom: 15px;
+    text-align: left;
 }
 
 .form-group label {
@@ -47,18 +59,11 @@
     border: none;
     border-radius: 5px;
     background-color: #0eb8c8;
-    color: rgb(255, 255, 255);
+    color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
-button:hover {
+.but:hover {
     background-color: #00b9c6;
 }
-
-
-
-
-
-
-

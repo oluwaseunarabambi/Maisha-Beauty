@@ -1,5 +1,5 @@
 import React from "react";
-import img from '../images/imag1.jpeg';
+import aisha from '../images/aisha.jpeg';
 import '../Styles/Shop.css';
 
 
@@ -20,7 +20,7 @@ const Shop = ()=> {
                 <h1>MIAISHA BEAUTY</h1>
                 <button className="shop-button">SHOP NOW</button>  
             </div>
-                <img src={img} alt="Wig" className="shop-image"/>
+                <img src={aisha} alt="Wig" className="shop-image"/>
             
         </div>
     )
