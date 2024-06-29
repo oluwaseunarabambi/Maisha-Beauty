@@ -32,7 +32,7 @@ const Checkout = ({ cart, total }) => {
             <ul className="checkout-notes">
                 <li>To Place an Order Kindly take a screenshot of your checkout page and send it as a DM on Instagram @Miaishabeauty</li>
                 <li>Kindly send a DM on Instagram @Miaishabeauty for International Shipping rates.</li>
-                <li>Deliveries within Lagos take 3-4 working days after dispatch.</li>
+                <li>Deliveries within Lagos take 1-2 working days after dispatch.</li>
                 <li>Deliveries outside Lagos take 3-5 working days after dispatch.</li>
                 <li>For international shipping, we have added the cost only for 0-2kg.
                     <br />If your order weighs more at the shipping office, please understand that you would have to pay more.
