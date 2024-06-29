@@ -30,6 +30,7 @@ const ContactUs = () => {
                 <p>Email: Miamibolakale@gmail.com</p>
                 <p>WhatsApp: 09053267546</p>
             </div>
+            <h2>Send us a Message</h2>
             <form onSubmit={handleSubmit} className="contact-form">
                 <div className="form-group">
                     <label htmlFor="name">Name</label>
