@@ -32,7 +32,7 @@ const Categories = ({ addToCart }) => {
         { id: 10, image: wig9, description: "Natural Jc Incredibly soft curly texture..Length-20'. Longer Lengths Available ", price: 78000 },
         { id: 11, image: wig11, description: "Mexico Water Curls Wigs.. Length-24' ", price: 265000 },
         { id: 12, image: wig12, description: "Wig Lulu Very Full Frontal. Color Highlights- Can be Comb Out or Wet Looks..Length-20'. 22' Also Available.", price: 130000 },
-        { id: 13, image: wig13, description: "Golden Blonde Highlights in Full Frontal. Color-Highligts- 100percent Virgin Human Hair..Length-16'.", price: 115000 },
+        { id: 13, image: wig13, description: "Golden Blonde Highlights in Full Frontal. Color-Highlights- 100percent Virgin Human Hair..Length-16'.", price: 115000 },
 
 
     ];
